@@ -1,0 +1,8 @@
+{
+  "name": "Petgram",
+  "description": "Petgram — Every Paw Deserves Care. Full-stack animal welfare and rescue platform connecting distress reports, veterinary care, AI first-aid guidance, missing & found pets, and volunteers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
